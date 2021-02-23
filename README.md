@@ -20,3 +20,4 @@ If you have ETH, you already have cheapETH!
 - [Henistein/cheapBot](https://github.com/Henistein/cheapBot)
 - [kourloskostas/cTHCommunityApp](https://github.com/kourloskostas/cTHCommunityApp)
 - [Flip Me Off](https://cth-flip.xyz/)
+- [cethswap.com](https://cethswap.com/)
